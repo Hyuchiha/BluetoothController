@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BluetoothSearch</string>
+    <string name="title_activity_presentation">PresentationActivity</string>
+</resources>
